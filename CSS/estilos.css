@@ -376,3 +376,11 @@ body{
     display: block;
 }
 
+.questions__show{
+    text-align: left;
+    height: 0px;
+}
+
+.questions__img{
+    display: block;
+}
